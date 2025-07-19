@@ -5,9 +5,9 @@ Advanced VFX, Toon, and Aura shaders for VRChat avatars featuring optimized anim
 ## What's Inside
 
 **Three powerful shaders designed for VRChat:**
-- **Hibiki VFX** - Advanced particle and effect rendering
-- **Hibiki Toon** - Optimized anime-style character shading  
-- **Hibiki Aura** - Atmospheric and glow effects
+- **Hibiki VFX** - Optimized for Shuriken particle system and trail renderers.
+- **Hibiki Toon** - For character / avatar models 
+- **Hibiki Aura** - Shader effects for characters / avatar models
 
 All shaders include multi-language editor support and comprehensive customization options (´｡• ᵕ •｡`) ❤️
 
