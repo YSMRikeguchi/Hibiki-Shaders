@@ -1,0 +1,35 @@
+{
+  "name": "Hibiki",
+  "description": "Hibiki Shaders: Optimized shaders for Unity's BIRP, VRChat avatars, and VFX",
+  "author": "YoshimaroVFX",
+  "url": "https://yoshimarovfx.github.io/vpm-repository/index.json",
+  "packages": {
+    "com.yoshimarovfx.hibiki": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.yoshimarovfx.hibiki",
+          "displayName": "Hibiki Shader Suite",
+          "version": "1.0.0",
+          "description": "Advanced VFX, Toon, and Aura shaders for VRChat avatars. Features optimized anime-style rendering, advanced VFX effects, and comprehensive editor tools with multi-language support.",
+          "unity": "2022.3",
+          "author": {
+            "name": "YoshimaroVFX",
+            "url": "https://github.com/YSMRikeguchi"
+          },
+          "keywords": [
+            "shader",
+            "vfx", 
+            "vrchat",
+            "toon",
+            "anime",
+            "hibiki",
+            "avatar",
+            "effects"
+          ],
+          "license": "MIT",
+          "url": "https://github.com/YSMRikeguchi/Hibiki-Shaders/releases/download/v1.0.0/com.yoshimarovfx.hibiki-1.0.0.tgz"
+        }
+      }
+    }
+  }
+} 
