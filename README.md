@@ -13,7 +13,10 @@ All shaders include multi-language editor support and comprehensive customizatio
 
 ## Installation
 
-### Via VCC (Recommended)
+### One-Click Install (Recommended)
+[**Add to VCC**](https://ysmrikeguchi.github.io/Hibiki-Shaders/vcc.html) ← Click here to automatically add the repository to your VCC!
+
+### Via VCC (Manual)
 1. Add this repository to your VCC: `https://ysmrikeguchi.github.io/Hibiki-Shaders/index.json`
 2. Install the Hibiki Shader Suite package
 3. Import into your VRChat project
