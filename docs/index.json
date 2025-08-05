@@ -28,6 +28,29 @@
                                                                                      "unity":  "2022.3",
                                                                                      "license":  "MIT",
                                                                                      "displayName":  "Hibiki Shaders"
+                                                                                 },
+                                                                      "1.0.16":  {
+                                                                                     "url":  "https://github.com/YSMRikeguchi/Hibiki-Shaders/releases/download/v1.0.16/com.yoshimarovfx.hibiki-1.0.16.zip",
+                                                                                     "description":  "Advanced VFX, Toon, and Aura shaders for VRChat avatars. Features optimized anime-style rendering, advanced VFX effects, and comprehensive editor tools with multi-language support.",
+                                                                                     "version":  "1.0.16",
+                                                                                     "author":  {
+                                                                                                    "name":  "YoshimaroVFX",
+                                                                                                    "url":  "https://github.com/YSMRikeguchi"
+                                                                                                },
+                                                                                     "name":  "com.yoshimarovfx.hibiki",
+                                                                                     "keywords":  [
+                                                                                                      "shader",
+                                                                                                      "vfx",
+                                                                                                      "vrchat",
+                                                                                                      "toon",
+                                                                                                      "anime",
+                                                                                                      "hibiki",
+                                                                                                      "avatar",
+                                                                                                      "effects"
+                                                                                                  ],
+                                                                                     "unity":  "2022.3",
+                                                                                     "license":  "MIT",
+                                                                                     "displayName":  "Hibiki Shaders"
                                                                                  }
                                                                   }
                                                  }
