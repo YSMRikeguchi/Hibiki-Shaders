@@ -6,10 +6,10 @@
     "packages":  {
                      "com.yoshimarovfx.hibiki":  {
                                                      "versions":  {
-                                                                      "1.0.31":  {
-                                                                                     "url":  "https://github.com/YSMRikeguchi/Hibiki-Shaders/releases/download/v1.0.31/com.yoshimarovfx.hibiki-1.0.31.zip",
+                                                                      "1.0.32":  {
+                                                                                     "url":  "https://github.com/YSMRikeguchi/Hibiki-Shaders/releases/download/v1.0.32/com.yoshimarovfx.hibiki-1.0.32.zip",
                                                                                      "description":  "Advanced VFX, Toon, and Aura shaders for VRChat avatars. Features optimized anime-style rendering, advanced VFX effects, and comprehensive editor tools with multi-language support.",
-                                                                                     "version":  "1.0.31",
+                                                                                     "version":  "1.0.32",
                                                                                      "author":  {
                                                                                                     "name":  "YoshimaroVFX",
                                                                                                     "url":  "https://github.com/YSMRikeguchi"
